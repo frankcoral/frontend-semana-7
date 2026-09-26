@@ -237,10 +237,8 @@ En GitHub se debe comprobar en **Settings > Pages** que el sitio esté configura
 
 ## Enlaces de entrega
 
-Completar esta sección después de publicar el proyecto:
-
-- **Repositorio GitHub:** pendiente de agregar.
-- **GitHub Pages:** pendiente de agregar.
+- **Repositorio GitHub:** https://github.com/frankcoral/frontend-semana-7
+- **GitHub Pages:** https://frankcoral.github.io/frontend-semana-7/
 
 ## Validaciones finales
 
